@@ -15,7 +15,6 @@
   _B.Sc. in Computer Engineering, 2022 – present_
 
 ## 📫 Contact
-- 📞 +90 552 325 2105  
 - ✉️ [nurdansisma1343@gmail.com](mailto:nurdansisma1343@gmail.com)  
 - 🌐 [LinkedIn](https://www.linkedin.com/in/nurdansisman-8782482b5/) | [GitHub](https://github.com/nurdansisman)  
 - 📍 İstanbul, Türkiye
