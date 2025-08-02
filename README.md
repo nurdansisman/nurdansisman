@@ -1,6 +1,6 @@
-<h1 align="center">Hi, I'm Nurdan Şişman 👋</h1>
+<h1 align="center">Hi, I'm Nurdan Şişman </h1>
 
-## 💫 About Me:
+## About Me:
 📫 How to reach me: [nurdansisma1343@gmail.com](mailto:nurdansisma1343@gmail.com)<br>
 👩‍💻 My GitHub: [nurdansisman](https://github.com/nurdansisman)
 
