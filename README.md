@@ -1,59 +1,29 @@
 <h1 align="center">Hi, I'm Nurdan Şişman 👋</h1>
 
-<div align="center">
-  <div class="dev-banner">
-    <pre>
-<span class="line">const passion = "coding";</span>
-<span class="line" style="animation-delay: 2s;">let coffee = true;</span>
-<span class="line" style="animation-delay: 4s;">console.log("Hello, World!");</span>
-    </pre>
-  </div>
-</div>
+## 💫 About Me:
+📫 How to reach me: [nurdansisma1343@gmail.com](mailto:nurdansisma1343@gmail.com)<br>
+👩‍💻 My GitHub: [nurdansisman](https://github.com/nurdansisman)
 
-<style>
-.dev-banner {
-  background: #282c34;
-  padding: 20px;
-  border-radius: 8px;
-  display: inline-block;
-}
-.dev-banner pre {
-  margin: 0;
-  font: 1em 'Courier New', monospace;
-  color: #61dafb;
-}
-.line {
-  display: block;
-  overflow: hidden;
-  white-space: nowrap;
-  border-right: .15em solid #61dafb;
-  width: 0;
-  animation:
-    typing 2s steps(30) forwards,
-    blink-caret .75s step-end infinite;
-}
-@keyframes typing {
-  to { width: 100%; }
-}
-@keyframes blink-caret {
-  from, to { border-color: transparent; }
-  50% { border-color: #61dafb; }
-}
-</style>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurdansisman-8782482b5/) [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/nurdansisman)
 
-## 🔧 Skills
-- **Programming Languages:** Java, Python  
-- **Web Technologies:** HTML, CSS  
-- **Data Tools:** Git, IntelliJ IDEA  
-- **Mobile Development:** Dart, Flutter  
+## 💻 Tech Stack:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
 
-## 🎓 Education
-- **Biruni Üniversitesi**, İstanbul  
-  _B.Sc. in Computer Engineering, 2022 – present_
+## 📊 GitHub Stats:
+![Nurdan’s GitHub stats](https://github-readme-stats.vercel.app/api?username=nurdansisman&theme=dark&show_icons=true)<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nurdansisman&theme=dark&layout=compact)
 
-## 📫 Contact
-- ✉️ [nurdansisma1343@gmail.com](mailto:nurdansisma1343@gmail.com)  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/nurdansisman-8782482b5/) | [GitHub](https://github.com/nurdansisman)  
-- 📍 İstanbul, Türkiye
+---
+
+[![](https://visitcount.itsvg.in/api?id=nurdansisman&icon=0&color=1)](https://visitcount.itsvg.in)
 
 ---
